@@ -10,7 +10,6 @@ Em **Aurora**, os jogadores assumem o papel de exploradores em um mundo onde os 
 
 - **Enigmas Desafiadores**: Quebra-cabeças que exigem raciocínio lógico e intuição para serem resolvidos.
 - **Narrativa Imersiva**: Histórias que exploram temas de ilusão, desejo e autodescoberta.
-- **Trilha Sonora Atmosférica**: Música e efeitos sonoros que complementam a experiência imersiva.
 
 ## Tecnologias Utilizadas
 
